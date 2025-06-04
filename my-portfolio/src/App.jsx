@@ -266,7 +266,7 @@ const App = () => {
                     <div className="absolute left-0 top-2 w-2 h-2 bg-emerald-400 rounded-full" />
                     <h5 className="font-medium text-white">B.Tech Computer Science & Engineering</h5>
                     <p className="text-sm text-gray-300">Kalinga Institute of Industrial Technology, Bhubaneswar</p>
-                    <p className="text-sm text-emerald-400 font-semibold">2022 – Present | CGPA: 8.36</p>
+                    <p className="text-sm text-emerald-400 font-semibold">2022 – Present | CGPA: 8.42</p>
                   </div>
                   <div className="relative pl-6">
                     <div className="absolute left-0 top-2 w-2 h-2 bg-purple-400 rounded-full" />
